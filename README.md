@@ -94,4 +94,4 @@ Warehouse and depot operations · batch and expiry control (FEFO) · damage and 
 
 **Alamin Hossain Asif** · Dhaka, Bangladesh · Supply chain portfolio, Project 2
 
-LinkedIn: [add your LinkedIn profile link here]
+LinkedIn: https://www.linkedin.com/in/alamin-hossain-asif
